@@ -4,6 +4,13 @@
  * SPDX-License-Identifier: MIT
  */
 
+/*
+ * IMPORTANT
+ * To run any 'west' command: python3 -m west ...
+ * 
+ */
+
+
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 
